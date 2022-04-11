@@ -1,0 +1,9 @@
+creatinp app called game of life in javafx
+
+..order of making
+
+.introduction - input number of rows / columns
+.blank map
+.ability to choose fields
+.one frame simulation
+.on going simulation
